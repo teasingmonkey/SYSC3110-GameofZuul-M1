@@ -1,8 +1,5 @@
 ----Milestone 1 - Game of Zuul-----
 
-18/10 - What if you make changes online ?
-If you edit your code online then ... ??
-
 18/10 - How to commit the changes you have made ?
 1. Right click on SYSC3110-Game-Of-Zuul-M1 [SYSC3110-Game-Of-Zuul-M1 master] project
 2. Go to team -> Commit
