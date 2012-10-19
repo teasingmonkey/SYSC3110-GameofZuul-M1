@@ -3,7 +3,7 @@
 18/10 - How to commit the changes you have made ?
 1. Right click on SYSC3110-Game-Of-Zuul-M1 [SYSC3110-Game-Of-Zuul-M1 master] project
 2. Go to team -> Commit
-3. Write a commit message and comit changes.
+3. Write a commit message and commit changes. 
 
 18/10 - How to import the project to your eclipse workspace ?
 1. Open Eclipse
